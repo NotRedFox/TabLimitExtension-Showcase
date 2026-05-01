@@ -4,7 +4,7 @@ Tab:
 <img width="1310" height="952" alt="Screenshot 2026-05-01 at 11 14 43 PM" src="https://github.com/user-attachments/assets/3bc99283-ed0d-4596-b1e2-1cd3084bc860" />
 
 Injected pop up:
-<img width="1310" height="952" alt="Screenshot 2026-05-01 at 7 46 44 PM" src="https://github.com/user-attachments/assets/8011d205-a77f-44d3-8ba0-47a1b7e3413e" />
+<img width="1310" height="952" alt="Screenshot 2026-05-02 at 2 10 44 AM" src="https://github.com/user-attachments/assets/6da93a98-f7fe-426d-9d38-ce589d56f62e" />
 
 Tutorial:
 <img width="1440" height="900" alt="Screenshot 2026-05-01 at 11 13 52 PM" src="https://github.com/user-attachments/assets/8cc96e38-2506-4af0-a16f-6c2f9e63ac55" />
