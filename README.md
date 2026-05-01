@@ -20,7 +20,7 @@ Backend:
 <img width="752" height="752" alt="Screenshot 2026-05-01 at 11 31 46 PM" src="https://github.com/user-attachments/assets/f06a8ad2-bdf6-4cae-9535-c59ac77eb07a" />
 
 
-**90% of this code was written through the use of AI. The logic and decisions are all chosen by me. I have learnt a lot and am still learning a lot. I just knew I wanted it to work. Additionally the full architectural breakdown and source are private I would be more then happy to explain why and how to different things I added. By the time you are reading this, in a perfect world, I will be halfway through V2.**
+**90% of this code was written through the use of AI. The logic and decisions are all chosen by me. I have learnt a lot and am still learning a lot. I just knew I wanted it to work. Additionally the full architectural breakdown and source are private I would be more then happy to explain why and how to different things I added.**
 
 **I made this in 3/4 weeks with a budget of about $100. I was inspired by the training to implement the security first scope, as prior to the training, I never realised just how imperative security is. That being said, it was first built to help me stay professional with tabs in my browser as I eventually found myself at the cutting edge of what a Chrome extension is physically able to do in 2025.**
 
