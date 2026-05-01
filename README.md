@@ -10,9 +10,9 @@ Tutorial:
 <img width="1440" height="900" alt="Screenshot 2026-05-01 at 11 13 52 PM" src="https://github.com/user-attachments/assets/8cc96e38-2506-4af0-a16f-6c2f9e63ac55" />
 
 Advanced settings + more:
+<img width="1310" height="952" alt="Screenshot 2026-05-01 at 11 22 21 PM" src="https://github.com/user-attachments/assets/45f83a26-ec80-4386-b1c6-1e31ba84adc3" />
 <img width="1310" height="952" alt="Screenshot 2026-05-01 at 7 53 07 PM" src="https://github.com/user-attachments/assets/1e64d948-ad71-4634-b8a7-09838665c4b4" />
 <img width="747" height="493" alt="Screenshot 2026-05-01 at 7 58 08 PM" src="https://github.com/user-attachments/assets/b468ba66-9b18-4490-9284-86ce5b3fe5a8" />
-<img width="1310" height="952" alt="Screenshot 2026-05-01 at 11 19 05 PM" src="https://github.com/user-attachments/assets/525df83e-74af-4ced-8b93-d55b10f920d4" />
 The productive/Unproductive words essentially do nothing but research shows that when users feel like they customised the system they are up to 50% more likely to feel like they are part of the system and helped build it resulting in a much higher retention rate. (IKEA effect)
 
 Backend:
