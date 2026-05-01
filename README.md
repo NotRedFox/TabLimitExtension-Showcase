@@ -1,20 +1,22 @@
 # TabLimitExtension-Showcase
-<img width="1440" height="900" alt="Screenshot 2026-05-01 at 8 26 12 PM" src="https://github.com/user-attachments/assets/6b69e79e-cc21-4da1-9929-e89e18ef322a" />
-<img width="1310" height="952" alt="Screenshot 2026-05-01 at 7 49 56 PM" src="https://github.com/user-attachments/assets/0fe3d454-9eae-4b54-a378-67bbfb5ac307" />
 
+Tab:
+<img width="1310" height="952" alt="Screenshot 2026-05-01 at 11 14 43 PM" src="https://github.com/user-attachments/assets/3bc99283-ed0d-4596-b1e2-1cd3084bc860" />
 
-<img width="752" height="752" alt="Screenshot 2026-05-01 at 8 21 40 PM" src="https://github.com/user-attachments/assets/f48d951e-e753-43a3-92ff-cbc3ff18ef6c" />
+Injected pop up:
+<img width="1310" height="952" alt="Screenshot 2026-05-01 at 7 46 44 PM" src="https://github.com/user-attachments/assets/8011d205-a77f-44d3-8ba0-47a1b7e3413e" />
 
-<img width="1310" height="952" alt="Screenshot 2026-05-01 at 7 52 35 PM" src="https://github.com/user-attachments/assets/1afab3ee-1111-4c46-b390-f05f4ed14cfd" />
+Tutorial:
+<img width="1440" height="900" alt="Screenshot 2026-05-01 at 11 13 52 PM" src="https://github.com/user-attachments/assets/8cc96e38-2506-4af0-a16f-6c2f9e63ac55" />
 
-<img width="1310" height="952" alt="Screenshot 2026-05-01 at 7 53 07 PM" src="https://github.com/user-attachments/assets/5a351b6b-a1a7-490b-8769-9c89a7c095c8" />
-
-<img width="747" height="493" alt="Screenshot 2026-05-01 at 7 58 08 PM" src="https://github.com/user-attachments/assets/3857a37b-34f4-43e2-8a2a-9db2eb7a0b91" />
+Advanced settings + more:
+<img width="1310" height="952" alt="Screenshot 2026-05-01 at 7 53 07 PM" src="https://github.com/user-attachments/assets/1e64d948-ad71-4634-b8a7-09838665c4b4" />
+<img width="747" height="493" alt="Screenshot 2026-05-01 at 7 58 08 PM" src="https://github.com/user-attachments/assets/b468ba66-9b18-4490-9284-86ce5b3fe5a8" />
+<img width="1310" height="952" alt="Screenshot 2026-05-01 at 11 19 05 PM" src="https://github.com/user-attachments/assets/525df83e-74af-4ced-8b93-d55b10f920d4" />
 The productive/Unproductive words essentially do nothing but research shows that when users feel like they customised the system they are up to 50% more likely to feel like they are part of the system and helped build it resulting in a much higher retention rate. (IKEA effect)
 
-<img width="1310" height="952" alt="Screenshot 2026-05-01 at 7 53 02 PM" src="https://github.com/user-attachments/assets/329c321e-34b1-4d7a-a5dc-ddabda6040b4" />
-
-
+Backend:
+<img width="752" height="752" alt="Screenshot 2026-05-01 at 11 17 16 PM" src="https://github.com/user-attachments/assets/2918d38b-c8db-44e4-9da1-11505e75e6e1" />
 
 **90% of this code was written through the use of AI. The logic and decisions are all chosen by me. I have learnt a lot and am still learning a lot. I just knew I wanted it to work. Aditonlly I had a more indepth break down of this document I can send but I dont want people to copy it. By the time you are reading this, in a perfect world, I will be halfway through V2. I made this in 3/4 weeks with a budget of about $100. I was inspired by the training to implement the security first scope, as prior to the training, I never realised just how imperative security is. That being said, it was first built to help me stay professional with tabs in my browser as I eventually found myself at the cutting edge of what a Chrome extension is physically able to do in 2025. I have also made performance a number one priority because I'm not using it if it's not fast. Currently uses 0.21MB of local storage after weeks of real use, well under Chrome's 10MB quota. Designed to stay under that ceiling even after months of offline use, with automatic pruning when limits approach. (It does reach a max if you don't sign in after, I guess, about 3 months. This is due to holding on to data locally before getting permission to send it to my server or delete it.)**
 
@@ -43,7 +45,7 @@ Roadmap
 
 * Phase 1: Core engine and local feedback loop.
 * Phase 2: Secure cloud sync and community-weighted scoring.
-* Phase 3: Advanced semantic recall and productivity visualizations.
+* Phase 3: Advanced semantic recall and productivity visualisations.
 
 🔒 Source Code
 The source code and detailed architectural documentation for this project are private. Contact me for a live demo or a technical walkthrough.
