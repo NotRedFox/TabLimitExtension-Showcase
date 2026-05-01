@@ -17,6 +17,8 @@ The productive/Unproductive words essentially do nothing but research shows that
 
 Backend:
 <img width="752" height="752" alt="Screenshot 2026-05-01 at 11 17 16 PM" src="https://github.com/user-attachments/assets/2918d38b-c8db-44e4-9da1-11505e75e6e1" />
+<img width="752" height="752" alt="Screenshot 2026-05-01 at 11 31 46 PM" src="https://github.com/user-attachments/assets/f06a8ad2-bdf6-4cae-9535-c59ac77eb07a" />
+
 
 **90% of this code was written through the use of AI. The logic and decisions are all chosen by me. I have learnt a lot and am still learning a lot. I just knew I wanted it to work. Aditonlly I had a more indepth break down of this document I can send but I dont want people to copy it. By the time you are reading this, in a perfect world, I will be halfway through V2. I made this in 3/4 weeks with a budget of about $100. I was inspired by the training to implement the security first scope, as prior to the training, I never realised just how imperative security is. That being said, it was first built to help me stay professional with tabs in my browser as I eventually found myself at the cutting edge of what a Chrome extension is physically able to do in 2025. I have also made performance a number one priority because I'm not using it if it's not fast. Currently uses 0.21MB of local storage after weeks of real use, well under Chrome's 10MB quota. Designed to stay under that ceiling even after months of offline use, with automatic pruning when limits approach. (It does reach a max if you don't sign in after, I guess, about 3 months. This is due to holding on to data locally before getting permission to send it to my server or delete it.)**
 
