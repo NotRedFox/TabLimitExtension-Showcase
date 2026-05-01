@@ -20,27 +20,29 @@ Backend:
 <img width="752" height="752" alt="Screenshot 2026-05-01 at 11 31 46 PM" src="https://github.com/user-attachments/assets/f06a8ad2-bdf6-4cae-9535-c59ac77eb07a" />
 
 
-**90% of this code was written through the use of AI. The logic and decisions are all chosen by me. I have learnt a lot and am still learning a lot. I just knew I wanted it to work. Aditonlly I had a more indepth break down of this document I can send but I dont want people to copy it. By the time you are reading this, in a perfect world, I will be halfway through V2. I made this in 3/4 weeks with a budget of about $100. I was inspired by the training to implement the security first scope, as prior to the training, I never realised just how imperative security is. That being said, it was first built to help me stay professional with tabs in my browser as I eventually found myself at the cutting edge of what a Chrome extension is physically able to do in 2025. I have also made performance a number one priority because I'm not using it if it's not fast. Currently uses 0.21MB of local storage after weeks of real use, well under Chrome's 10MB quota. Designed to stay under that ceiling even after months of offline use, with automatic pruning when limits approach. (It does reach a max if you don't sign in after, I guess, about 3 months. This is due to holding on to data locally before getting permission to send it to my server or delete it.)**
+**90% of this code was written through the use of AI. The logic and decisions are all chosen by me. I have learnt a lot and am still learning a lot. I just knew I wanted it to work. Additionally the full architectural breakdown and source are private I would be more then happy to explain why and how to different things I added. By the time you are reading this, in a perfect world, I will be halfway through V2.**
 
-Please ignore the ugly UI in some places this is currently V1 thats ment to just be funtional for me to focaus on the task at hand not look pretty.
+**I made this in 3/4 weeks with a budget of about $100. I was inspired by the training to implement the security first scope, as prior to the training, I never realised just how imperative security is. That being said, it was first built to help me stay professional with tabs in my browser as I eventually found myself at the cutting edge of what a Chrome extension is physically able to do in 2025.**
 
-(Reiterating I had to significantly dumb it down to ajust for people coping this since it was so cheap and only took a few weeks.)
+**I have also made performance a number one priority because I'm not using it if it's not fast. Currently uses 0.21MB of local storage after weeks of real use, well under Chrome's 10MB quota. Designed to stay under that ceiling even after months of offline use, with automatic pruning when limits approach. It does reach a max if you don't sign in after, I guess, about 3 months. This is due to holding on to data locally before getting permission to send it to my server or delete it.**
+
+Please ignore the ugly UI in some places this is currently V1 thats meant to just be funtional for me to focus on the task at hand not look pretty.
 
 PlayingFild
-A Chrome extension that learns what you consider productive browsing, then helps you stay there. Not a static blocklist—PlayingFild is an adaptive system that learns the difference between a distraction and a deep-work resource through real-time feedback.
+A Chrome extension that learns what you consider productive browsing, then helps you stay there. Not a static blocklist PlayingFild is an adaptive system that learns the difference between a distraction and a deep-work resource through real-time feedback.
 
 Core Features
 
-* Intelligent Classification: Pages are scored in real-time based on content and historical behaviour.
-* Smart Tab Management: Automatically manages tab overhead by prioritizing your active work and pruning low-value tabs.
-* Privacy-First Architecture: Uses a multi-layer data model where sensitive signals never leave your device.
+* Intelligent Classification: Pages are scored in real time based on content and historical behaviour.
+* Smart Tab Management: Automatically manages tab overhead by prioritising your active work and pruning low value tabs.
+* Privacy-First Architecture: Uses a multi layer data model where sensitive signals never leave your device.
 * Adaptive Vocabulary: The system learns your professional language as you browse, eliminating the need for manual keyword lists.
 
 Technical Overview
 Built with a focus on extreme performance (under 0.3MB storage footprint) and security.
 
 * Frontend: Vanilla ES6+ for maximum speed.
-* Security: Multi-layer consent model with hardware-level privacy considerations.
+* Security: Multi-layer consent model with on device signal isolation.
 * Intelligence: Local ML inference for private, on-device semantic analysis.
 
 Roadmap
